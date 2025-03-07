@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Backend Developer | Automation & API Specialist**  
 
-I'm a passionate **backend developer** with expertise in **PHP (Laravel), Python, and Node.js**. I specialize in **building scalable web applications, automation tools, and seamless API integrations**. With a strong problem-solving mindset, I enjoy developing high-performance solutions that drive business growth.  
+I'm a passionate **backend developer** with expertise in **PHP (Laravel) and Python**. I specialize in **building scalable web applications, automation tools, and seamless API integrations**. With a strong problem-solving mindset, I enjoy developing high-performance solutions that drive business growth.  
 
 ## 💡 What I Do:  
 ✔️ **Backend Development** – Building efficient and scalable applications using PHP (Laravel) and Python  
@@ -16,7 +16,7 @@ I'm a passionate **backend developer** with expertise in **PHP (Laravel), Python
 ---
 
 ## 🔥 Technologies & Tools:  
-🔹 **Languages:** PHP, Python, JavaScript (Node.js)  
+🔹 **Languages:** PHP, Python, JavaScript  
 🔹 **Frameworks:** Laravel, Flask, FastAPI, Express.js  
 🔹 **Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
 🔹 **E-commerce:** Shopify API, WooCommerce, eBay API, BigCommerce  
