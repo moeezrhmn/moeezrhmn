@@ -33,6 +33,21 @@ I'm a passionate **backend developer** with expertise in **PHP (Laravel), Python
 
 ---
 
+## 🎯 GitHub Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=moeezrhmn&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=moeezrhmn&theme=radical)
+
+---
+
+## 🔥 Visitor Counter
+![Profile Views](https://komarev.com/ghpvc/?username=moeezrhmn&color=blue)
+
+---
+
 ## 🌐 Connect with Me:  
 🌎 **Portfolio:** [moeezrehman.dev](https://moeezrehman.dev/)  
 💼 **LinkedIn:** [linkedin.com/in/moeezrhmn](https://www.linkedin.com/in/moeezrhmn/)  
