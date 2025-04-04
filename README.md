@@ -1,6 +1,6 @@
 # Hi there, I'm Moeez! 👋  
 
-🚀 **Software Engineer | Backend Developer | Automation & API Specialist**  
+🚀 **Backend Developer | PHP, Laravel & Python | Automation & API Integration | Custom Web apps development | Custom Soltution | Web Scraping **  
 
 I'm a passionate **backend developer** with expertise in **PHP (Laravel) and Python**. I specialize in **building scalable web applications, automation tools, and seamless API integrations**. With a strong problem-solving mindset, I enjoy developing high-performance solutions that drive business growth.  
 
