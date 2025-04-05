@@ -70,7 +70,7 @@ I'm a passionate **backend developer** with expertise in **PHP (Laravel) and Pyt
 ## 📈 GitHub Stats  
 
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeezrhmn&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeezrhmn&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeezrhmn&layout=compact&theme=radical&show_icons=true)
 
 ---
 
